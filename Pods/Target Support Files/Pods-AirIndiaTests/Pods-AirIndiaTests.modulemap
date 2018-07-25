@@ -1,0 +1,6 @@
+framework module Pods_AirIndiaTests {
+  umbrella header "Pods-AirIndiaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
